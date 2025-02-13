@@ -1,0 +1,1 @@
+gfortran -o timecorrelated.exe interpolation.f90 runge_kutta/velocitymodule.f90 velocity_models/timecorrelated.f90 runge_kutta/particlemodule.f90 particle_models/passivetracer.f90 main_programs/main_timecorr.f90 -lfftw -o3

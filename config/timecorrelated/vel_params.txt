@@ -1,0 +1,5 @@
+gamma 0.1
+Nmodes 128
+lcorr 0.08
+sigma 0.04
+lamb 10.0
